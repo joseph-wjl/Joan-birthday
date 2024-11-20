@@ -1,9 +1,14 @@
 body {
     text-align: center;
-    font-family: 'Happy Monkey', cursive;
-    /* background: linear-gradient(#a2d2ff, #EFB0C9); */
+    font-family: "Amatic SC", sans-serif;
     background-image: url("images/sunflower.jpg");
     color: #ffffff;
+}
+
+.amatic-sc-regular {
+    font-family: "Amatic SC", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 h1,
@@ -17,13 +22,13 @@ p {
 #bff-img {
     width: 150px;
     border-radius: 50%;
-    border: 6px solid #f1fc76;
+    border: 6px solid #f9ed3f;
     margin-bottom: 10px;
 }
 
 #bday-date {
     margin: 0;
-    background: #f1fc76;
+    background: #f9ed3f;
     padding: 5px 10px;
     border-radius: 5px;
 }
