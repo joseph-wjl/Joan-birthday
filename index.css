@@ -1,14 +1,9 @@
 body {
     text-align: center;
     font-family: "Amatic SC", sans-serif;
+    font-weight: 700;
     background-image: url("images/sunflower.jpg");
     color: #ffffff;
-}
-
-.amatic-sc-regular {
-    font-family: "Amatic SC", sans-serif;
-    font-weight: 400;
-    font-style: normal;
 }
 
 h1,
