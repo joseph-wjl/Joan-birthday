@@ -55,111 +55,112 @@ p {
     margin: 20px auto;
     width: 400px;
     height: 400px;
-    border: 6px solid white;
     border-radius: 10px;
     background-image: url("images/gift-cover.jpg");
     background-size: contain;
     background-repeat: no-repeat;
 }
 
-#gift-img-happy:hover {
+#gift-img-happy:hover,
+#gift-img-happy.clicked {
     background-image: url("images/happy.gif");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
-#gift-img-damn:hover {
+#gift-img-damn:hover,
+#gift-img-damn.clicked {
     background-image: url("images/damn.gif");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
 }
 
-#gift-img-hot:hover {
+#gift-img-hot:hover,
+#gift-img-hot.clicked {
     background-image: url("images/hot.gif");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
 }
 
-#gift-img-sexy:hover {
+#gift-img-sexy:hover,
+#gift-img-sexy.clicked {
     background-image: url("images/sexy.gif");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
 }
 
-#gift-img-smart:hover {
+#gift-img-smart:hover,
+#gift-img-smart.clicked {
     background-image: url("images/smart.gif");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
-#gift-img-beautiful:hover {
+#gift-img-beautiful:hover,
+#gift-img-beautiful.clicked {
     background-image: url("images/beautiful.gif");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
 }
 
-#gift-img-100:hover {
+#gift-img-100:hover,
+#gift-img-100.clicked {
     background-image: url("images/100.gif");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
-#gift-img-ww:hover {
+#gift-img-ww:hover,
+#gift-img-ww.clicked {
     background-image: url("images/ww.gif");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
-#gift-img-harley:hover {
+#gift-img-harley:hover,
+#gift-img-harley.clicked {
     background-image: url("images/harley.gif");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
-#gift-img-feel1:hover {
+#gift-img-feel1:hover,
+#gift-img-feel1.clicked {
     background-image: url("images/feel1.gif");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
-#gift-img-feel2:hover {
+#gift-img-feel2:hover,
+#gift-img-feel2.clicked {
     background-image: url("images/feel2.gif");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
 }
 
-#gift-img-cheers:hover {
-    background-image: url("images/cheers.gif");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-}
-
-#gift-img-corn:hover {
+#gift-img-corn:hover,
+#gift-img-corn.clicked {
     background-image: url("images/corn.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
-#gift-img-miss:hover {
+#gift-img-miss:hover,
+#gift-img-miss.clicked {
     background-image: url("images/miss.jpg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-}
-
-a {
-    color: white;
 }
